@@ -18,5 +18,5 @@ In this project, we are creating a cloud application, based on python,flask,ibm 
 
   -  TERISH BABU V
   -  VASANTHA KUMAR R
-  -  VIGNESH PANDIAN (TEAM LEAD)
+  -  VIGNESH PANDIAN P(TEAM LEAD)
   -  YUVA GANESH A
